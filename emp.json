@@ -1,0 +1,8 @@
+{"records":[
+    {"Company":"Mahindra","Model":"xuv300","Price":12000,"Duration":"3hrs","Servicer_name":"Ramesh","Servicer_experience":5},
+    {"Company":"Mahindra","Model":"xuv700","Price":16000,"Duration":"4hrs","Servicer_name":"Suresh","Servicer_experience":6},
+    {"Company":"Kia","Model":"sonet","Price":10000,"Duration":"2hrs","Servicer_name":"Yoga","Servicer_experience":4},
+    {"Company":"Kia","Model":"seltos","Price":14000,"Duration":"2.5hrs","Servicer_name":"Satish","Servicer_experience":5}, 
+    {"Company":"Hyndai","Model":"creata","Price":12000,"Duration":"3hrs","Servicer_name":"Alam","Servicer_experience":6},
+    {"Company":"Hyndai","Model":"venue","Price":8000,"Duration":"2hrs","Servicer_name":"Mahesh","Servicer_experience":3}]}
+
